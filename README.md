@@ -38,7 +38,7 @@ SPD/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/student-performance-prediction.git
+git clone https://github.com/srinithiofficial2006-boop/student-performance-prediction.git
 
 2. Install dependencies
 
