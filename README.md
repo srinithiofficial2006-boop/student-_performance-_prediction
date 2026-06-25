@@ -12,16 +12,6 @@ Student Performance Prediction is a machine learning web application that predic
 * Flask backend for handling requests
 * Trained model saved using Pickle
 
-## Project Structure
-
-SPD/
-├── backend.py
-├── mlmodel.py
-├── model.pkl
-├── templates/
-│   └── index.html
-├── student_performance_prediction_dataset-2.csv
-└── README.md
 
 
 ## Technologies Used
